@@ -2,3 +2,4 @@ hello
 another line added
 line added sample
 line was added
+line 5 added
