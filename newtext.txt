@@ -5,3 +5,8 @@ line was added
 line 5 added
 line 6 added
 line 7 added
+<<<<<<< HEAD
+=======
+line 9 added
+line 10
+>>>>>>> f911484... line10
